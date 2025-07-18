@@ -71,7 +71,3 @@ Este projeto é baseado no guia da Microsoft:
 * [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)
 * Visual Studio 2022 ou superior com o workload de ASP.NET
 
----
-
-Se quiser, posso adaptar o conteúdo com seu nome, GitHub ou contexto específico. Deseja isso?
-
